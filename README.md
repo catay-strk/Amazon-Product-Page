@@ -21,20 +21,20 @@ Every requirement begins with a Guided Link so you can explore any part further 
   **`images/product.jpg`**  
   Must include this alt text:  
   **“Wireless Noise‑Cancelling Headphones”**  
-- **Product title** — Must contain exactly this text:  
+- **Product title** — Must contain this text:  
   **“Wireless Noise‑Cancelling Headphones”**  
-- **Product subtitle** — Must contain exactly this text:  
+- **Product subtitle** — Must contain this text:  
   **“Premium comfort. Superior sound.”**  
-- **Product description** — Must contain exactly this text:  
-  **“Experience immersive audio with cutting‑edge noise cancellation and all‑day comfort.”**  
+- **Product description** — Must contain  this text:  
+  **“Experience immersive audio with cutting‑edge noise cancellation, crystal‑clear highs, and deep, powerful bass. These wireless noise‑cancelling headphones are engineered for comfort, featuring ultra‑soft ear cushions and a lightweight frame designed for long listening sessions. With up to 32 hours of battery life, fast charging support, and seamless Bluetooth connectivity, you can enjoy uninterrupted music, podcasts, and calls throughout your day. Built‑in touch controls make it easy to adjust volume, skip tracks, and manage calls without reaching for your device. Whether you’re commuting, working, or relaxing at home, these headphones deliver premium sound quality and exceptional noise isolation to elevate every moment.”**  
 - **Price** — Must contain exactly this text:  
-  **“Price: $149.99”**  
-- **Rating** — Must contain exactly this text:  
+  **“$149.99”**  
+- **Price container** — A flexbox container holding the price elements.  
+- **Rating** — Must contain this text/image:  
   **“⭐️⭐️⭐️⭐️☆ (4.2 out of 5)”**  
-- **Button container** — A flexbox container holding two buttons.  
-- **Primary button** — Must contain exactly this text:  
+- **Primary button** — Must contain this text:  
   **“Add to Cart”**  
-- **Secondary button** — Must contain exactly this text:  
+- **Secondary button** — Must contain this text:  
   **“Buy Now”**  
 - **Shipping note** — Must contain exactly this text:  
   **“Free shipping on orders over $50.”**
@@ -56,9 +56,7 @@ Every requirement begins with a Guided Link so you can explore any part further 
 - **Colors** — Apply a color palette inspired by Amazon (blue, yellow, white, gray).  
 - **Web‑safe fonts** — Use a web‑safe font stack (e.g., Arial, Helvetica, sans-serif).  
 - **Margin/padding shorthand** — Use shorthand syntax for margin and padding at least twice.  
-- **Make it your own** — Add one small personal touch (color tweak, border style, spacing change).  
-- **Deploy** — Prepare the project so it can be deployed (no actual deployment required).  
-- **Git & GitHub** — The project must be structured so it could be committed to Git (no actual commit required).
+- **Make it your own** — Add one small personal touch (color tweak, border style, spacing change).
 
 ---
 
